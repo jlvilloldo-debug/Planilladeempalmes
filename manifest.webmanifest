@@ -1,0 +1,3 @@
+{ "name": "Planillas de empalme", "short_name": "Empalmes", "start_url": "./", "display": "standalone",
+  "background_color": "#eef1f5", "theme_color": "#16395c", "lang": "es",
+  "icons": [{ "src": "icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }] }
